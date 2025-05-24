@@ -1,0 +1,30 @@
+[
+    {
+        "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+        "id": "a0987002-d8a4-4c6a-bf44-d8a61d74de97",
+        "displayName": "Schneller, Dominik",
+        "userIdentityType": "aadUser",
+        "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+    },
+    {
+        "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+        "id": "0a0447c7-37e6-4267-be6c-1b790329cb59",
+        "displayName": "Spielberger, Christian",
+        "userIdentityType": "aadUser",
+        "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+    },
+    {
+        "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+        "id": "a0987002-d8a4-4c6a-bf44-d8a61d74de97",
+        "displayName": "Schneller, Dominik",
+        "userIdentityType": "aadUser",
+        "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+    },
+    {
+        "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+        "id": "d6dc15f6-47e2-4786-a1d6-7b88d7bcf9dd",
+        "displayName": "Beck, Steffen",
+        "userIdentityType": "aadUser",
+        "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+    }
+]

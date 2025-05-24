@@ -1,0 +1,316 @@
+[
+    {
+        "id": "1747995729027",
+        "replyToId": null,
+        "etag": "1747995735313",
+        "messageType": "message",
+        "createdDateTime": "2025-05-23T10:22:09.027Z",
+        "lastModifiedDateTime": "2025-05-23T10:22:15.313Z",
+        "lastEditedDateTime": null,
+        "deletedDateTime": null,
+        "subject": null,
+        "summary": null,
+        "chatId": "19:c85ccb7c68164f918361586431268deb@thread.v2",
+        "importance": "normal",
+        "locale": "en-us",
+        "webUrl": null,
+        "channelIdentity": null,
+        "policyViolation": null,
+        "eventDetail": null,
+        "from": {
+            "application": null,
+            "device": null,
+            "user": {
+                "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+                "id": "d219487f-1889-470f-92b8-dcae410a0a27",
+                "displayName": "Z\u00fchlke, Nico",
+                "userIdentityType": "aadUser",
+                "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+            }
+        },
+        "body": {
+            "contentType": "html",
+            "content": "<p>sind hinten im pausenraum</p>"
+        },
+        "attachments": [],
+        "mentions": [],
+        "reactions": [
+            {
+                "reactionType": "like",
+                "displayName": "like",
+                "reactionContentUrl": null,
+                "createdDateTime": "2025-05-23T10:22:15.333Z",
+                "user": {
+                    "application": null,
+                    "device": null,
+                    "user": {
+                        "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+                        "id": "d6dc15f6-47e2-4786-a1d6-7b88d7bcf9dd",
+                        "displayName": null,
+                        "userIdentityType": "aadUser",
+                        "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "1747995721021",
+        "replyToId": null,
+        "etag": "1747995721021",
+        "messageType": "message",
+        "createdDateTime": "2025-05-23T10:22:01.021Z",
+        "lastModifiedDateTime": "2025-05-23T10:22:01.021Z",
+        "lastEditedDateTime": null,
+        "deletedDateTime": null,
+        "subject": null,
+        "summary": null,
+        "chatId": "19:c85ccb7c68164f918361586431268deb@thread.v2",
+        "importance": "normal",
+        "locale": "en-us",
+        "webUrl": null,
+        "channelIdentity": null,
+        "policyViolation": null,
+        "eventDetail": null,
+        "from": {
+            "application": null,
+            "device": null,
+            "user": {
+                "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+                "id": "d219487f-1889-470f-92b8-dcae410a0a27",
+                "displayName": "Z\u00fchlke, Nico",
+                "userIdentityType": "aadUser",
+                "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+            }
+        },
+        "body": {
+            "contentType": "html",
+            "content": "<p>essen ist da</p>"
+        },
+        "attachments": [],
+        "mentions": [],
+        "reactions": []
+    },
+    {
+        "id": "1747990990671",
+        "replyToId": null,
+        "etag": "1747990990671",
+        "messageType": "message",
+        "createdDateTime": "2025-05-23T09:03:10.671Z",
+        "lastModifiedDateTime": "2025-05-23T09:03:10.671Z",
+        "lastEditedDateTime": null,
+        "deletedDateTime": null,
+        "subject": null,
+        "summary": null,
+        "chatId": "19:c85ccb7c68164f918361586431268deb@thread.v2",
+        "importance": "normal",
+        "locale": "en-us",
+        "webUrl": null,
+        "channelIdentity": null,
+        "policyViolation": null,
+        "eventDetail": null,
+        "from": {
+            "application": null,
+            "device": null,
+            "user": {
+                "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+                "id": "d219487f-1889-470f-92b8-dcae410a0a27",
+                "displayName": "Z\u00fchlke, Nico",
+                "userIdentityType": "aadUser",
+                "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+            }
+        },
+        "body": {
+            "contentType": "html",
+            "content": "<p>auf 12:15</p>"
+        },
+        "attachments": [],
+        "mentions": [],
+        "reactions": []
+    },
+    {
+        "id": "1747990490147",
+        "replyToId": null,
+        "etag": "1747990491682",
+        "messageType": "message",
+        "createdDateTime": "2025-05-23T08:54:50.147Z",
+        "lastModifiedDateTime": "2025-05-23T08:54:51.682Z",
+        "lastEditedDateTime": null,
+        "deletedDateTime": null,
+        "subject": null,
+        "summary": null,
+        "chatId": "19:c85ccb7c68164f918361586431268deb@thread.v2",
+        "importance": "normal",
+        "locale": "en-us",
+        "webUrl": null,
+        "channelIdentity": null,
+        "policyViolation": null,
+        "eventDetail": null,
+        "from": {
+            "application": null,
+            "device": null,
+            "user": {
+                "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+                "id": "a0987002-d8a4-4c6a-bf44-d8a61d74de97",
+                "displayName": "Schneller, Dominik",
+                "userIdentityType": "aadUser",
+                "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+            }
+        },
+        "body": {
+            "contentType": "html",
+            "content": "<p><img src=\"http://localhost:8000/image-proxy/0632acc5-7d8c-4fda-ae8a-b85c726b12df\" width=\"266\" height=\"57\" alt=\"Bild\" itemid=\"0-nde-d2-a280c67c78628d6eaa2419ff700576be\"></p>"
+        },
+        "attachments": [],
+        "mentions": [],
+        "reactions": []
+    },
+    {
+        "id": "1747990488682",
+        "replyToId": null,
+        "etag": "1747990488682",
+        "messageType": "message",
+        "createdDateTime": "2025-05-23T08:54:48.682Z",
+        "lastModifiedDateTime": "2025-05-23T08:54:48.682Z",
+        "lastEditedDateTime": null,
+        "deletedDateTime": null,
+        "subject": null,
+        "summary": null,
+        "chatId": "19:c85ccb7c68164f918361586431268deb@thread.v2",
+        "importance": "normal",
+        "locale": "en-us",
+        "webUrl": null,
+        "channelIdentity": null,
+        "policyViolation": null,
+        "eventDetail": null,
+        "from": {
+            "application": null,
+            "device": null,
+            "user": {
+                "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+                "id": "3eec7547-3f59-4923-9050-205108877de8",
+                "displayName": "Fr\u00f6hlich, Matthias",
+                "userIdentityType": "aadUser",
+                "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+            }
+        },
+        "body": {
+            "contentType": "html",
+            "content": "<p>Rigatoni Roma</p>"
+        },
+        "attachments": [],
+        "mentions": [],
+        "reactions": []
+    },
+    {
+        "id": "1747990120944",
+        "replyToId": null,
+        "etag": "1747990122014",
+        "messageType": "message",
+        "createdDateTime": "2025-05-23T08:48:40.944Z",
+        "lastModifiedDateTime": "2025-05-23T08:48:42.014Z",
+        "lastEditedDateTime": null,
+        "deletedDateTime": null,
+        "subject": null,
+        "summary": null,
+        "chatId": "19:c85ccb7c68164f918361586431268deb@thread.v2",
+        "importance": "normal",
+        "locale": "en-us",
+        "webUrl": null,
+        "channelIdentity": null,
+        "policyViolation": null,
+        "eventDetail": null,
+        "from": {
+            "application": null,
+            "device": null,
+            "user": {
+                "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+                "id": "d6dc15f6-47e2-4786-a1d6-7b88d7bcf9dd",
+                "displayName": "Beck, Steffen",
+                "userIdentityType": "aadUser",
+                "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+            }
+        },
+        "body": {
+            "contentType": "html",
+            "content": "<p><img src=\"http://localhost:8000/image-proxy/db17a0fe-0e4c-43a1-bf31-557c702e94a7\" width=\"65\" height=\"11\" alt=\"Bild\" itemid=\"0-nde-d4-bbab17652cbfddbff1057455e8fc86ef\"></p>"
+        },
+        "attachments": [],
+        "mentions": [],
+        "reactions": []
+    },
+    {
+        "id": "1747983322780",
+        "replyToId": null,
+        "etag": "1747983323620",
+        "messageType": "message",
+        "createdDateTime": "2025-05-23T06:55:22.78Z",
+        "lastModifiedDateTime": "2025-05-23T06:55:23.62Z",
+        "lastEditedDateTime": null,
+        "deletedDateTime": null,
+        "subject": null,
+        "summary": null,
+        "chatId": "19:c85ccb7c68164f918361586431268deb@thread.v2",
+        "importance": "normal",
+        "locale": "en-us",
+        "webUrl": null,
+        "channelIdentity": null,
+        "policyViolation": null,
+        "eventDetail": null,
+        "from": {
+            "application": null,
+            "device": null,
+            "user": {
+                "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+                "id": "0a0447c7-37e6-4267-be6c-1b790329cb59",
+                "displayName": "Spielberger, Christian",
+                "userIdentityType": "aadUser",
+                "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+            }
+        },
+        "body": {
+            "contentType": "html",
+            "content": "<p><img src=\"http://localhost:8000/image-proxy/b511f722-17cc-4890-9bf0-2b5dfdabafa1\" width=\"216\" height=\"47\" alt=\"Bild\" itemid=\"0-nde-d2-61d45f104a018530aa6d35657019f7de\"></p>"
+        },
+        "attachments": [],
+        "mentions": [],
+        "reactions": []
+    },
+    {
+        "id": "1747983291880",
+        "replyToId": null,
+        "etag": "1747983292900",
+        "messageType": "message",
+        "createdDateTime": "2025-05-23T06:54:51.88Z",
+        "lastModifiedDateTime": "2025-05-23T06:54:52.9Z",
+        "lastEditedDateTime": null,
+        "deletedDateTime": null,
+        "subject": null,
+        "summary": null,
+        "chatId": "19:c85ccb7c68164f918361586431268deb@thread.v2",
+        "importance": "normal",
+        "locale": "en-us",
+        "webUrl": null,
+        "channelIdentity": null,
+        "policyViolation": null,
+        "eventDetail": null,
+        "from": {
+            "application": null,
+            "device": null,
+            "user": {
+                "@odata.type": "#microsoft.graph.teamworkUserIdentity",
+                "id": "d219487f-1889-470f-92b8-dcae410a0a27",
+                "displayName": "Z\u00fchlke, Nico",
+                "userIdentityType": "aadUser",
+                "tenantId": "30a03c1d-8b9f-437d-9680-205575f91380"
+            }
+        },
+        "body": {
+            "contentType": "html",
+            "content": "<p><img src=\"http://localhost:8000/image-proxy/4651d288-5d64-4d3c-acf4-545d02b517b4\" width=\"473\" height=\"34\" alt=\"Bild\" itemid=\"0-wcde-d4-65d4f1afe6ca548dc2db10c7cbc10f3e\"></p>"
+        },
+        "attachments": [],
+        "mentions": [],
+        "reactions": []
+    }
+]
