@@ -102,8 +102,7 @@ onMounted(() => {
   transform: translateX(-100%);
 }
 .slideshow {
-  position: relative;
-  min-height: 200px; /* adjust as needed */
+  height: 100%;
 }
 .history-graph {
   top: 0;
